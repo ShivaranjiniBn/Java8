@@ -1,2 +1,7 @@
-# Java8
-Streams, lamda expression, functional interface, date api 
+# Java8 Features
+1 -> Functional Interface
+2 -> Lamda Expression
+3 -> Stream
+4 -> CompletableFuture
+5 -> Java DateTime API
+
